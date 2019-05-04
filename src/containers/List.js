@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-const API_KEY = "AIzaSyAlPlr6ZuMz9LdvfhrHoqI2dB6IbDNBJjA";
+const API_KEY = "";
 
 const debounce = (fn, time) => {
   let timeout;
